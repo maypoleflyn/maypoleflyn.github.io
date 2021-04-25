@@ -1,0 +1,66 @@
+---
+layout: page
+title: Publications
+
+---
+
+Shen, F., Huang, Z., Zhang, B., Wang, Y., Zhang, X., Wu, T., Xu, X., Zhang, X., & Han, Z. 
+(2019). Mapping gene markers for apple fruit ring rot disease resistance using a multi-omics 
+approach. G3: Genes, Genomes, Genetics, 9(5), 1663–1678.
+
+Cui, M., Zhuang, Y., Shen, F., Yang, L., Wang, Y., Wu, T., Zhao, Y., Li, C., Han, Y., Chen, D., 
+& others. (2014). QTL mapping for susceptibility to apple fruit ring rot and candidate gene 
+predicting. Journal of Fruit Science, 31(5), 793–800.
+
+Tan, Y., Shen, F., Chen, R., Wang, Y., Wu, T., Li, T., Xu, X., Han, Z., & Zhang, X. (2017). 
+Candidate genes associated with resistance to Valsa canker identified via quantitative trait 
+loci in apple. Journal of Phytopathology, 165(11–12), 848–857.
+
+Zhao, J.#, Shen, F.#, Gao, Y., Wang, D., & Wang, K. (2019). Parallel Bud Mutation Sequencing 
+Reveals that Fruit Sugar and Acid Metabolism Potentially Influence Stress in Malus. 
+International Journal of Molecular Sciences, 20(23), 5988.
+
+Huang, Z#., Shen, F.#, Chen, Y., Cao, K., & Wang, L. (2021). Preliminary Identification of Key 
+Genes Controlling Peach Pollen Fertility Using Genome-Wide Association Study. Plants, 
+10(2), 242.
+
+Wei, X.#, Shen, F.#, Zhang, Q., Liu, N., Zhang, Y., Xu, M., Zhang, Y., Ma, X., & Liu, W. (2020). 
+Genetic diversity analysis of Chinese plum (Prunus salicina L.) based on whole-genome 
+resequencing. BioRxiv.
+
+Jia, D., Shen, F., Wang, Y., Wu, T., Xu, X., Zhang, X., & Han, Z. (2018). Apple fruit acidity is 
+genetically diversified by natural variations in three hierarchical epistatic genes: MdSAUR37, 
+MdPP2CH and MdALMTII. The Plant Journal, 95(3), 427–443.
+
+Liu, J., Shen, F., Xiao, Y., Fang, H., Qiu, C., Li, W., Wu, T., Xu, X., Wang, Y., Zhang, X., & 
+others. (2020). Genomics-assisted prediction of salt and alkali tolerances and functional 
+marker development in apple rootstocks. BMC Genomics, 21(1), 1–16.
+
+Yang, F., Shen, F., Liu, Z., He, M., Wang, Y., Wu, T., Xu, X., Li, W., Qiu, C., Zhang, X., & 
+others. (2020). Development and validation of functional markers from Dw1 and Dw2 loci to 
+accurately predict apple rootstock dwarfing ability.
+
+Zheng, W., Shen, F., Wang, W., Wu, B., Wang, X., Xiao, C., Tian, Z., Yang, X., Yang, J., Wang, 
+Y., & others. (2020). Quantitative trait loci-based genomics-assisted prediction for the 
+degree of apple fruit cover color. The Plant Genome, 13(3), e20047.
+
+Li, X., Xu, X., Shen, F., Li, W., Qiu, C., Wu, T., Wang, Y., Xu, X., Han, Z., & Zhang, X. (2020). 
+$γ$-Aminobutyric Acid Participates in the Adult-Phase Adventitious Rooting Recalcitrance. 
+Journal of Plant Growth Regulation, 1–11.
+
+Zheng, C., Shen, F., Wang, Y., Wu, T., Xu, X., Zhang, X., & Han, Z. (2020). Intricate genetic 
+variation networks control the adventitious root growth angle in apple. BMC Genomics, 
+21(1), 1–18.
+
+Wang, X., Shen, F., Gao, Y., Wang, K., Chen, R., Luo, J., Yang, L., Zhang, X., Qiu, C., Li, W., & 
+others. (2020). Application of genome-wide insertion/deletion markers on genetic structure 
+analysis and identity signature of Malus accessions. BMC Plant Biology, 20(1), 1–13.
+
+Wu, B., Shen, F., Wang, X., Zheng, W. Y., Xiao, C., Deng, Y., Wang, T., Huang, Z. Y., Zhou, Q., 
+Wang, Y., & others. (2020). Role of MdERF3 and MdERF118 natural variations in apple 
+flesh firmness/crispness retainability and development of QTL-based genomics-assisted 
+prediction. Plant Biotechnology Journal.
+
+
+
+
