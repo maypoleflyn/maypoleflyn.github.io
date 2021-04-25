@@ -61,6 +61,44 @@ Wang, Y., & others. (2020). Role of MdERF3 and MdERF118 natural variations in ap
 flesh firmness/crispness retainability and development of QTL-based genomics-assisted 
 prediction. Plant Biotechnology Journal.
 
+Wu, B., Shen, F., Chen, C. J., Liu, L., Wang, X., Zheng, W. Y., Deng, Y., Wang, T., Huang, Z. Y., 
+Xiao, C., & others. (2021). Natural variations in a pectin acetylesterase gene, MdPAE10, 
+contribute to prolonged apple fruit shelf life. The Plant Genome, e20084.
 
+Jia, D., Wu, P., Shen, F., Li, W., Zheng, X., Wang, Y., Yuan, Y., Zhang, X., & Han, Z. (2021). 
+Genetic variation in the promoter of an R2R3- MYB transcription factor determines fruit 
+malate content in apple (Malus domestica Borkh.). Plant Physiology.
+
+Huang, Z., Hu, H., Shen, F., Wu, B., Wang, X., Zhang, B., Wang, W., Liu, L., Liu, J., Chen, C., & 
+others. (2018). Relatively high acidity is an important breeding objective for fresh 
+juice-specific apple cultivars. Scientia Horticulturae, 233, 29–37.
+
+Jia, X. L., Chen, Y. K., Xu, X. Z., Shen, F., Zheng, Q. B., Du, Z., Wang, Y., Wu, T., Xu, X. F., 
+Han, Z. H., & others. (2017). miR156 switches on vegetative phase change under the 
+regulation of redox signals in apple seedlings. Scientific Reports, 7(1), 1–13.
+
+Zhang, M., Lv, Y., Wang, Y., Rose, J. K. C., Shen, F., Han, Z., Zhang, X., Xu, X., Wu, T., & Han, 
+Z. (2016). TATA box insertion provide a selected mechanism for enhancing gene expression 
+to adapt Fe deficiency. Plant Physiology, pp--01504.
+
+Zhao, J., Liu, G., Chang, R., Cao, K., Shen, F., Wu, T., Wang, Y., Han, Z., & Zhang, X. (2015). 
+Diversity of flesh polyphenols and their progressive dilution during fruit expansion in Malus 
+germplasm. Scientia Horticulturae, 197, 461–469.
+
+Han, Z., Hu, Y., Lv, Y., Rose, J. K. C., Sun, Y., Shen, F., Wang, Y., Zhang, X., Xu, X., Wu, T., & 
+others. (2018). Natural variation underlies differences in ETHYLENE RESPONSE 
+FACTOR17 activity in fruit peel degreening. Plant Physiology, 176(3), 2292–2304.
+
+Zhang, M., Lv, Y., Wang, Y., Rose, J. K. C., Shen, F., Han, Z., Zhang, X., Xu, X., Wu, T., & Han, 
+Z. (2017). TATA box insertion provides a selection mechanism underpinning adaptations to 
+Fe deficiency. Plant Physiology, 173(1), 715–727.
+
+Wang, W., Mauleon, R., Hu, Z., Chebotarov, D., Tai, S., Wu, Z., Li, M., Zheng, T., Fuentes, R. R., 
+Zhang, F., & others. (2018). Genomic variation in 3,010 diverse accessions of Asian 
+cultivated rice. Nature, 557(7703), 43–49.
+
+Cao, K., Chang, Y., Sun, R., Shen, F., Wu, T., Wang, Y., Zhang, X., & Han, Z. (2015). Candidate 
+gene prediction via quantitative trait locus analysis of fruit shape index traits in apple. 
+Euphytica, 206(2), 381–391.
 
 
