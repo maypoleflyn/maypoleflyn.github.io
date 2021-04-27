@@ -14,15 +14,18 @@ author: Fei Shen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+
   Home: "https://maypoleflyn.github.io"
   About Me: "hpg"
   Resources:
     - Jasmine Genome: "https://github.com/maypoleflyn/Jasminum-sambac-genome"
     - Apple Genome: "https://maypoleflyn.github.io"
+    
   Tools: "https://maypoleflyn.github.io"
     - BSATOS: "https://github.com/maypoleflyn/BSATOS"
     - 2pgap: "https://github.com/maypoleflyn/2P_gap"
     - Probe: "https://github.com/maypoleflyn/Probe"
+    
   Publications: "publication"
 
 # --- Logo --- #
