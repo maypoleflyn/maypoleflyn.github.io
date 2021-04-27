@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+---
+
 **Publications:**     H-index=9 
 
 **Shen, F**., Huang, Z., Zhang, B., Wang, Y., Zhang, X., Wu, T., Xu, X., Zhang, X., & Han, Z. 
