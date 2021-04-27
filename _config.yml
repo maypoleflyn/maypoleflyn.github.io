@@ -18,9 +18,11 @@ navbar-links:
   About Me: "hpg"
   Tools: 
     - BSATOS: "https://github.com/maypoleflyn/BSATOS"
+    - Probe: "https://github.com/maypoleflyn/Probe"
   Resources:
     - Jasmine Genome: "https://github.com/maypoleflyn/Jasminum-sambac-genome"
     - Apple Genome: "https://maypoleflyn.github.io"
+  Blog: "blog"  
   Publications: "publication"
 
 # --- Logo --- #
