@@ -14,7 +14,7 @@ author: Fei Shen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "hpg.md"
   Resources:
     - Tools: "https://maypoleflyn.github.io"
     - Jasmine Genome: "https://github.com/maypoleflyn/Jasminum-sambac-genome"
