@@ -16,6 +16,8 @@ author: Fei Shen
 navbar-links:
   Home: "https://maypoleflyn.github.io/"
   About Me: "hpg"
+  Tools: 
+    - BSATOS: "https://github.com/maypoleflyn/BSATOS"
   Resources:
     - Jasmine Genome: "https://github.com/maypoleflyn/Jasminum-sambac-genome"
     - Apple Genome: "https://maypoleflyn.github.io"
