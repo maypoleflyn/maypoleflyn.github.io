@@ -3,7 +3,10 @@ layout: page
 title: Publications
 ---
 
-**Publications:**     H-index=9   Google schoolar: https://scholar.google.com/citations?user=3Gtxm6AAAAAJ&hl=zh-CN
+**Publications:**    H-index=9   
+
+Google schoolar: https://scholar.google.com/citations?user=3Gtxm6AAAAAJ&hl=zh-CN
+
 
 •	**Shen, F**., Huang, Z., Zhang, B., Wang, Y., Zhang, X., Wu, T., Xu, X., Zhang, X., & Han, Z. (2019). Mapping gene markers for apple fruit ring rot disease resistance using a multi-omics approach. G3: Genes, Genomes, Genetics, 9(5), 1663–1678.
 
