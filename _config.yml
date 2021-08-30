@@ -22,7 +22,7 @@ navbar-links:
   Resources:
     - Jasmine Genome: "https://github.com/maypoleflyn/Jasminum-sambac-genome"
     - Apple Genome: "https://maypoleflyn.github.io"
-  Publications: "publicatio"
+  Publications: "publication.md"
 
 # --- Logo --- #
 
