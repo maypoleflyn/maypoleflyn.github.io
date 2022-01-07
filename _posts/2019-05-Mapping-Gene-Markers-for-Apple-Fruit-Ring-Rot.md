@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Apple Gene Mapping
+title:  Apple Gene Mapping Pulished in G3 
 cover-img: /assets/img/P2-1.jpg
 thumbnail-img: /assets/img/P2-1.jpg
 share-img: /assets/img/P2-3.jpg
