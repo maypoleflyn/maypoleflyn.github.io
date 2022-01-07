@@ -1,0 +1,10 @@
+---
+layout: post
+title:  Parallel Bud Mutation Sequencing Reveals that Fruit Sugar and Acid Metabolism Potentially InfluenceStress in Malus
+cover-img: /assets/img/P3-1.jpg
+thumbnail-img: /assets/img/P3-1.png
+share-img: /assets/img/P3-3.jpg
+tags: [apple, apple]
+---
+
+Apple sugar and acid are the most important traits of apple fruit. Bud sport cultivars can provide abundant research materials for functional gene studies in apple. In this study, using bud sport materials with a rather different sugar and acid flavor, i.e., “Jonathan” and “Sweet Jonathan”, we profiled the whole genome variations and transcriptional regulatory network during fruit developmental stages using whole genome sequencing and RNA-sequencing. Variation analysis identified 4,198,955 SNPs, 319,494 InDels, and 32,434 SVs between the two cultivars. In total, 4313 differentially expressed genes among all of the d 44,399 genes expressed were identified between the two cultivars during fruit development, and functional analysis revealed stress response and signaltransduction related genes were enriched. Using 24,047 genes with a more variable expression value,we constructed 28 co-expression modules by weighted correlation network analysis. Deciphering of 14co-expression modules associated with sugar or acid accumulation during fruit development revealedthe hub genes associated with sugar and acid metabolism, e.g., MdDSP4, MdINVE, and MdSTP7.Furthermore, exploration of the intra network of the co-expression module indicated the closerelationship between sugar and acid metabolism or sugar and stress. Motif-based sequence analysisof the 17 differentially expressed ATP-binding cassette transporter genes and Yeast one-hybrid assayidentified and confirmed a transcription factor, MdBPC6, regulating the ATP-binding cassette (ABC)transporter genes and potentially participating in the apple fruit development or stress response.Collectively, all of the results demonstrated the use of parallel bud mutation sequencing and identifiedhub genes, and inferred regulatory relationships providing new information about apple fruit sugarand acid accumulation or stress response.
