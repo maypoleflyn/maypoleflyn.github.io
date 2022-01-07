@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Parallel Bud Mutation Sequencing Reveals that Fruit Sugar and Acid Metabolism Potentially InfluenceStress in Malus
+title:  Parallel Bud Mutation Sequencing in Malus
 cover-img: /assets/img/P3-1.jpg
 thumbnail-img: /assets/img/P3-1.png
 share-img: /assets/img/P3-3.jpg
