@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  An HD-ZIP transcription factor, MxHB13, integratesauxin-regulated and juvenility-determined control of adventitious rooting in Malus xiaojinensis
+title:  juvenility-determined control 
 cover-img: /assets/img/P16-1.jpg
 thumbnail-img: /assets/img/P6.jpg
 share-img: /assets/img/P6-3.jpg
