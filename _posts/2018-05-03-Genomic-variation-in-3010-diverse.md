@@ -2,7 +2,7 @@
 layout: post
 title:  Asian cultivated rice Genomics
 cover-img: /assets/img/P1-1.jpg
-thumbnail-img: /assets/img/P1-2.png
+thumbnail-img: /assets/img/P1-3.jpg
 share-img: /assets/img/P1-3.jpg
 tags: [rice, rice]
 ---
