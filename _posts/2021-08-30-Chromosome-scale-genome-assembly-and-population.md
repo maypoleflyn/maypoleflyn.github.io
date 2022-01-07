@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Chromosome-scale genome assembly and population genomics provide insights into the adaptation,domestication, and flavonoid metabolism of Chinese plum
+title:  Chinese plum Genome 
 cover-img: /assets/img/P7-1.jpg
 thumbnail-img: /assets/img/P7.jpg
 share-img: /assets/img/P7-3.jpg
