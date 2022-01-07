@@ -3,18 +3,20 @@ layout: page
 title: Publications
 ---
 
-**Publications:**    H-index=9   
+**Selected Publications:**      
 
-Google schoolar: https://scholar.google.com/citations?user=3Gtxm6AAAAAJ&hl=zh-CN
+Google schoolar link: https://scholar.google.com/citations?user=3Gtxm6AAAAAJ&hl=zh-CN  
+
+Publons link: https://publons.com/researcher/4867668/fei-shen/publications/
 
 
 •	**Shen, F**., Huang, Z., Zhang, B., Wang, Y., Zhang, X., Wu, T., Xu, X., Zhang, X., & Han, Z. (2019). Mapping gene markers for apple fruit ring rot disease resistance using a multi-omics approach. G3: Genes, Genomes, Genetics, 9(5), 1663–1678.
 
-•	Shixiao Xu, Yongle Ding, Juntao Sun, Zhiqiang Zhang, Zhaoyun Wu, Tiezhao Yang, **Fei Shen#** and Gang Xue# A high-quality genome assembly of Jasminum sambac provides insight into floral trait formation and Oleaceae genome evolution. (2021). Molecular Ecology Resource (In press). (Corresponding author) (IF=7.09)
+•	Shixiao Xu, Yongle Ding, Juntao Sun, Zhiqiang Zhang, Zhaoyun Wu, Tiezhao Yang, **Fei Shen#** and Gang Xue# A high-quality genome assembly of Jasminum sambac provides insight into floral trait formation and Oleaceae genome evolution. (2021). Molecular Ecology Resource. 22(2):724-739 (Corresponding author) (IF=7.09) DOI: 10.1111/1755-0998.13497 
 
 •	Li X#, **Shen F#**, Xu X, Zheng Q, Wang Y, Wu T, Li W, Qiu C, Xu X, Han Z, Zhang X (2021). An HD-ZIP transcription factor, MxHB13, integrates auxin-regulated and juvenility-determined control of adventitious rooting in Malus xiaojinensis. The Plant Journal. 2021 Jul 4. (doi: 10.1111/tpj.15406) (IF=6.14) (co-first author)
 
-•	Zhenyu Huang#, **Fei Shen#**, Yuling Chen, Ke Cao, Lirong Wang (2021). Chromosome scale Genome Assembly and Population Genomic Analysis Provide Insights into the Adaptation, Domestication, and Flavonoid Metabolism of Chinese Plum (Prunus salicina Lindl.). The Plant Journal.  (In press) (IF=6.14) (co-first author)
+•	Zhenyu Huang#, **Fei Shen#**, Yuling Chen, Ke Cao, Lirong Wang (2021). Chromosome scale Genome Assembly and Population Genomic Analysis Provide Insights into the Adaptation, Domestication, and Flavonoid Metabolism of Chinese Plum (Prunus salicina Lindl.). The Plant Journal. 108(4):1174-1192. doi: 10.1111/tpj.15482. (IF=6.14) (co-first author)
 
 •	Zhao, J.#, **Shen, F#** , Gao, Y., Wang, D., & Wang, K. (2019). Parallel Bud Mutation Sequencing Reveals that Fruit Sugar and Acid Metabolism Potentially Influence Stress in Malus. International Journal of Molecular Sciences, 20(23), 5988. (IF=5.9)
 
