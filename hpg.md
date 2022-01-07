@@ -28,21 +28,21 @@ Email:heh@srnaworld.com
 Skilled in big data technology, including genome assembly, RNA-seq and genome evolution analysis
 Email: hcy9983mu@163.com
 
-Fengjia Zhao (Ph.D student)
+**Fengjia Zhao** (Ph.D student)
   Skilled in molecular biology experiments. 
   Solving horticultural crop yield problems using molecular biology.
   Email:576318681@qq.com
  
-Xin Huang (Graduate Student) 
+**Xin Huang** (Graduate Student) 
   Skilled in molecular biology experiments. 
   Solving horticultural crop yield problems using molecular biology.
   
-Xuyao Zhang (Graduate Student) 
+**Xuyao Zhang** (Graduate Student) 
   Skilled in molecular biology experiments. 
   Solving horticultural crop yield problems using molecular biology.
 
-Beijing Agro-Biotechnology Research Center (https://babrc.ac.cn/)
-Beijing Academy of Agriculture and Forestry Sciences (https://www.baafs.net.cn/)
+**Beijing Agro-Biotechnology Research Center (https://babrc.ac.cn/)**
+**Beijing Academy of Agriculture and Forestry Sciences (https://www.baafs.net.cn/)**
 
 
 
