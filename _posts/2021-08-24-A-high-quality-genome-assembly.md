@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A high-quality genome assembly of Jasminum sambac provides insight into floral trait formation and Oleaceae genome evolution
+title:  Jasminum sambac and Oleaceae genome evolution in MER
 cover-img: /assets/img/P5-1.jpg
 thumbnail-img: /assets/img/P5-1.png
 share-img: /assets/img/P5-3.jpg
