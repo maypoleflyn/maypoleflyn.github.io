@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Preliminary Identification of Key Genes Controlling Peach Pollen Fertility Using Genome-Wide Association Study
+title:  Key Genes Controlling Peach Pollen Fertility 
 cover-img: /assets/img/P8-1.jpg
 thumbnail-img: /assets/img/P8-1.jpg
 share-img: /assets/img/P8-3.jpg
