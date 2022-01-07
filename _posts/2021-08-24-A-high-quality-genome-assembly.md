@@ -2,7 +2,7 @@
 layout: post
 title:  Jasminum sambac and Oleaceae genome evolution in MER
 cover-img: /assets/img/P5-1.jpg
-thumbnail-img: /assets/img/P5-1.png
+thumbnail-img: /assets/img/P5-1.jpg
 share-img: /assets/img/P5-3.jpg
 tags: [floral traits, Jasminum sambac,]
 ---
