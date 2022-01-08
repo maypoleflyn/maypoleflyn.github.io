@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: We are family
+subtitle: People
 ---
 
 **Horticultural Plants Genomics** 
 
 
-**Fei Shen** 
+**Fei Shen** Ph.D
 
 Assitant professor, Beijing Academy of Agriculture and Forestry Sciences
 
@@ -17,20 +17,25 @@ Comparative and evolutionary genomics:  Employing a combination of comparative, 
 Genetic dissection of complex traits: Employing a combination of genomics, proteomics, molecular biology and genetics approaches to dissect complex traits of agronomic importance such as soybean plant architecture, yield components, disease resistance, as well as traits underlying soybean domestication.
 
 Phone: +86-17812169160
+
 Office: Haidian, Beijing, China
+
 Email: shenf1028@gmail.com 
 
 **Hao He** (Ph.D student) 
 Skilled in big data technology, including genome assembly, RNA-seq and genome evolution analysis
+
 Email:heh@srnaworld.com
 
 **Chenyang Hu** (Ph.D student) 
 Skilled in big data technology, including genome assembly, RNA-seq and genome evolution analysis
+
 Email: hcy9983mu@163.com
 
 **Fengjia Zhao** (Ph.D student)
   Skilled in molecular biology experiments. 
   Solving horticultural crop yield problems using molecular biology.
+  
   Email:576318681@qq.com
  
 **Xin Huang** (Graduate Student) 
@@ -42,6 +47,7 @@ Email: hcy9983mu@163.com
   Solving horticultural crop yield problems using molecular biology.
 
 **Beijing Agro-Biotechnology Research Center (https://babrc.ac.cn/)**
+
 **Beijing Academy of Agriculture and Forestry Sciences (https://www.baafs.net.cn/)**
 
 
