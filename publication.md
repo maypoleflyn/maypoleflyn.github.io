@@ -10,7 +10,7 @@ Google schoolar link: https://scholar.google.com/citations?user=3Gtxm6AAAAAJ&hl=
 Publons link: https://publons.com/researcher/4867668/fei-shen/publications/
 
 
-**Shen,F**, Luca Bianco, Bei Wu, Zhendong Tian, Ting Wu, Yi Wang, Xuefeng Xue, Zhenhai Han, Riccardo velasco, Paolo Fontana, Xinzhong Zhang (2022). A bulked segregant analysis tool for out-crossing species (BSATOS) and QTL-based genomics-assisted prediction of complex traits in apple. Journal of Advanced Research (In Press) IF=10.47
+•	**Shen,F**, Luca Bianco, Bei Wu, Zhendong Tian, Ting Wu, Yi Wang, Xuefeng Xue, Zhenhai Han, Riccardo velasco, Paolo Fontana, Xinzhong Zhang (2022). A bulked segregant analysis tool for out-crossing species (BSATOS) and QTL-based genomics-assisted prediction of complex traits in apple. Journal of Advanced Research (In Press) IF=10.47
 
 •	**Shen, F**., Huang, Z., Zhang, B., Wang, Y., Zhang, X., Wu, T., Xu, X., Zhang, X., & Han, Z. (2019). Mapping gene markers for apple fruit ring rot disease resistance using a multi-omics approach. G3: Genes, Genomes, Genetics, 9(5), 1663–1678.
 
