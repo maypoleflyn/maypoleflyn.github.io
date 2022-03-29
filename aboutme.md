@@ -10,8 +10,9 @@ Assitant professor, Beijing Academy of Agriculture and Forestry Sciences
 
 **Research Interests**
 
-Comparative and evolutionary genomics:  Employing a combination of comparative, computational and experimental genomics approaches to address the mechanistic basis that underlies structural and functional genomic changes in flowering plants, with an emphasis on duplication-driven and transposon-mediated gene and genome evolution.
-Genetic dissection of complex traits: Employing a combination of genomics, proteomics, molecular biology and genetics approaches to dissect complex traits of agronomic importance such as soybean plant architecture, yield components, disease resistance, as well as traits underlying soybean domestication.
+1) Comparative and evolutionary genomics:  Employing a combination of comparative, computational and experimental genomics approaches to address the mechanistic basis that underlies structural and functional genomic changes in flowering plants, with an emphasis on duplication-driven and transposon-mediated gene and genome evolution.
+2) Genetic dissection of complex traits: Employing a combination of genomics, proteomics, molecular biology and genetics approaches to dissect complex traits of agronomic importance such as Asteraceae plant architecture, yield components, disease resistance, as well as traits underlying domestication.
+3) Deep learning 
 
 Phone: +86-17812169160
 Office: Haidian, Beijing, China
