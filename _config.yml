@@ -19,6 +19,7 @@ navbar-links:
   Tools: 
     - BSATOS: "https://github.com/maypoleflyn/BSATOS"
     - Probe: "https://github.com/maypoleflyn/Probe"
+    - volcano: "https://github.com/maypoleflyn/valcano"
   Resources:
     - Jasmine Genome: "https://github.com/maypoleflyn/Jasminum-sambac-genome"
     - Apple Genome: "https://maypoleflyn.github.io"
