@@ -5,13 +5,13 @@ title: Publications
 
 **Selected Publications:**      
 
-•	**Shen,F**, Qin Y, Wang R, Huang X, Wang Y, Gao T, He J, Zhou Y, Jiao Y, Wei J, Li L, Yang X. Comparative genomics reveals a unique nitrogen-carbon balance system in Asteraceae. Nat Commun. 2023 Jul 20;14(1):4334. doi: 10.1038/s41467-023-40002-9. 
+•	**Shen F**, Qin Y, Wang R, Huang X, Wang Y, Gao T, He J, Zhou Y, Jiao Y, Wei J, Li L, Yang X. Comparative genomics reveals a unique nitrogen-carbon balance system in Asteraceae. Nat Commun. 2023 Jul 20;14(1):4334. doi: 10.1038/s41467-023-40002-9. 
 
-•	**Fei Shen**, Shixiao Xu, Qi Shen, Changwei Bi, Martin A. Lysak. The allotetraploid horseradish genome provides insights into subgenome diversification and formation of critical traits. Nat Commun. 2023 (In Press)  https://doi.org/10.1038/s41467-023-39800-y.
+•	**Shen F#**, Xu SX, Shen Q, Bi CW, Martin A. Lysak. The allotetraploid horseradish genome provides insights into subgenome diversification and formation of critical traits. Nat Commun. 2023 (In Press)  https://doi.org/10.1038/s41467-023-39800-y. (Corresponding author)
 
 •	**Shen F**, He H, Huang X, Deng Y, Yang X. Insights into the convergent evolution of fructan biosynthesis in angiosperms from the highly characteristic chicory genome. New Phytol. 2023 May;238(3):1245-1262. doi: 10.1111/nph.18796.
 
-• Ma Q, Wang Y, Li S, Wen J, Zhu L, Yan K, Du Y, Li S, Yan L, Xie Z, Lyu Y, **Shen F**, Li Q. Ribosome footprint profiling enables elucidating the systemic regulation of fatty acid accumulation in Acer truncatum. BMC Biol. 2023 Apr 3;21(1):68. doi: 10.1186/s12915-023-01564-8.
+• Ma Q, Wang Y, Li S, Wen J, Zhu L, Yan K, Du Y, Li S, Yan L, Xie Z, Lyu Y, **Shen F**, Li Q. Ribosome footprint profiling enables elucidating the systemic regulation of fatty acid accumulation in Acer truncatum. BMC Biol. 2023 Apr 3;21(1):68. doi: 10.1186/s12915-023-01564-8. (Corresponding author)
 
 • **Shen F**, Hu C, Huang X, Wu R, Luo S, Xu C, Zhang H, Wang X, Zhao J. Characterization of the genetic and regulatory networks associated with sugar and acid metabolism in apples via an integrated strategy. Front Plant Sci. 2022 Nov 17;13:1066592. doi: 10.3389/fpls.2022.1066592.
 
