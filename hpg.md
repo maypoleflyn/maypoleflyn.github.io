@@ -4,17 +4,17 @@ title: About me
 subtitle: People
 ---
 
-**Horticultural Plants Genomics** 
+**Shen Genomics Lab** 
 
 
 **Fei Shen** Ph.D
 
-Assitant professor, Beijing Academy of Agriculture and Forestry Sciences
+Principle Investigator, Associate Professor, Beijing Academy of Agriculture and Forestry Sciences
 
 **Research Interests**
 
 Comparative and evolutionary genomics:  Employing a combination of comparative, computational and experimental genomics approaches to address the mechanistic basis that underlies structural and functional genomic changes in flowering plants, with an emphasis on duplication-driven and transposon-mediated gene and genome evolution.
-Genetic dissection of complex traits: Employing a combination of genomics, proteomics, molecular biology and genetics approaches to dissect complex traits of agronomic importance such as soybean plant architecture, yield components, disease resistance, as well as traits underlying soybean domestication.
+Genetic dissection of complex traits: Employing a combination of genomics, proteomics, molecular biology and genetics approaches to dissect complex traits of agronomic importance such as soybean plant architecture, yield components, disease resistance, as well as traits underlying lettuce domestication.
 
 Phone: +86-17812169160
 
@@ -46,9 +46,9 @@ Email: hcy9983mu@163.com
   Skilled in molecular biology experiments. 
   Solving horticultural crop yield problems using molecular biology.
 
-**Beijing Agro-Biotechnology Research Center (https://babrc.ac.cn/)**
+**Beijing Agro-Biotechnology Research Center [Duck Duck Go](https://babrc.ac.cn/)**
 
-**Beijing Academy of Agriculture and Forestry Sciences (https://www.baafs.net.cn/)**
+**Beijing Academy of Agriculture and Forestry Sciences [Duck Duck Go](https://www.baafs.net.cn/)**
 
 
 
