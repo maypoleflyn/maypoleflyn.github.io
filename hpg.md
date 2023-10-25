@@ -22,6 +22,14 @@ Office: Haidian, Beijing, China
 
 Email: shenf1028@gmail.com 
 
+<iframe
+    src="http://118.25.75.221/map2.html" 
+    width="600" 
+    height="300" 
+    frameborder="0" 
+    scrolling="no"></iframe>
+    
+
 **Hao He** (Ph.D student) 
 Skilled in big data technology, including genome assembly, RNA-seq and genome evolution analysis
 
