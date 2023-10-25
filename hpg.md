@@ -23,7 +23,7 @@ Office: Haidian, Beijing, China
 Email: shenf1028@gmail.com 
 
 <iframe
-    src="http://118.25.75.221/map2.html" 
+    src="Beijing Agriculture And Forestry Academy Of Sciences - Google Maps.html" 
     width="600" 
     height="300" 
     frameborder="0" 
